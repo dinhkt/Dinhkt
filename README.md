@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working as an AI Engineer with experience in Computer Vision, Natural Language Processing and Generative AI
-- 🌱 I have experience for optimizing and deploying/serving AI models on the edge or cloud and with deep understanding model architecture.
+- 🔭 I’m AI Software Engineer with deep knowledge in Computer Vision, NLP, LLMs, GenAI and with strong base in Data Structure and Algorithm
 - 🌱 I also do Leetcode for fun and holding Leetcode Knight Badge
 - 📫 How to reach me: tuyen.dinhk@gmail.com
 - ⚡ Open for freelance jobs
